@@ -1,0 +1,11 @@
+.offcanvas-title,.portofolio{
+    color: white;
+}
+
+
+
+@media only screen and (min-width:992px) {
+    .navbar-nav,.offcanvas-title{
+        color: white;
+    }
+  }
