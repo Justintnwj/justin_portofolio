@@ -10,7 +10,7 @@ export default function Footer() {
     window.open(`https://wa.me/+6281211107650`, '_blank');
   };
   return (
-    <AppBar position="relative" sx={{ backgroundColor: 'black', alignItems: 'flex-end' }}>
+    <AppBar position="relative" sx={{ backgroundColor: 'rgb(0, 114, 255)', alignItems: 'flex-end' }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'flex' } }}>
